@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA in C++ and enhancing my skills in full-stack development.**
 
-- ⚡ Fun fact **git commit -m "solved after 3 hours, 2 mental breakdowns, 1 existential crisis, and a sudden urge to become a farmer" 😭😂git commit -m "solved after 3 hours, 2 mental breakdowns, 1 existential crisis, and a sudden urge to become a farmer" 😭😂**
+- ⚡ Fun fact **git commit -m "solved after 3 hours, 2 mental breakdowns, 1 existential crisis, and a sudden urge to become a farmer" 😭
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
